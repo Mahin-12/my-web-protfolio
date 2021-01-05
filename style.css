@@ -1,0 +1,10 @@
+body{
+    font-family: 'Redressed', cursive;
+}
+
+h1{
+    font-size: 50px;
+}
+.name-highlight{
+    color: rgb(175, 0, 0);
+}
